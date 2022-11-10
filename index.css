@@ -1,0 +1,59 @@
+body {
+    background: url(https://ichef.bbci.co.uk/news/976/cpsprodpb/1DA3/production/_125278570_mediaitem125278569.jpg);
+    background-size: cover;
+
+}
+
+div {
+    color: black;
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    align-items: center;
+    
+}
+
+#title {
+    text-align: center;
+}
+
+#main {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#columncap {
+    color: black;
+    outline: auto;
+    background-color: lightgray;
+}
+
+#line1 {
+    color: black;
+    text-align: justify;
+    outline: auto;
+    background-color: lightgray;
+}
+
+#imgcaption {
+    color: black;
+}
+
+
+#tributeinfo {
+    color: black;
+    outline: auto;
+    background-color: lightgray;
+}
+
+#link {
+    color: black;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+}
